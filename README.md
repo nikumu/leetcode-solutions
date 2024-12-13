@@ -16,7 +16,7 @@ A collection of solutions to various LeetCode problems implemented in C++. This 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/leetcode-cpp
+git clone https://github.com/nikumu/leetcode-solutions
 ```
 
 2. Navigate to the desired problem folder.
