@@ -27,6 +27,3 @@ git clone https://github.com/nikumu/leetcode-solutions
 
 Contributions are welcome! Feel free to submit solutions, optimize existing ones, or add comments for better readability. Please ensure your code follows clean coding practices.
 
-### License
-
-This project is licensed under the MIT License.
